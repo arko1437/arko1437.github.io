@@ -73,13 +73,13 @@ transition-timing-function: ease-out;
 transition: width 2s;
 
 }
-div.vetrimaaran:hover
+div.vetrimaaran:hover,div.vetrimaaran:active
 {
   background-color:#e0ece4;
   width:90%;
 
 }
-div.rajamouli:hover
+div.rajamouli:hover ,div.rajamouli:active
 {
   background-color:#e0ece4;
   width:90%;
