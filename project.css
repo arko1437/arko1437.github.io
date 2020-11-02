@@ -1,0 +1,91 @@
+body{
+  background-color:#cbf1f5;
+}
+h1
+{
+  color:#005691;
+  text-align:center;
+  font-family: 'Kaushan Script', cursive;
+
+}
+
+.image1{
+  border-radius: 50%;
+  float:left;
+  margin-right:15px;
+
+}
+
+.rajamouli
+{
+background-color:#0dceda;
+padding:50px;
+padding-left:20px;
+padding-right:10px;
+border-radius:30px;
+box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2);
+overflow: hidden;
+margin-bottom:30px;
+width:50%;
+margin-left: auto;
+margin-right: auto;
+transition-timing-function: ease-out;
+transition: width 2s;
+}
+.one{
+
+  letter-spacing: 1px;
+  font-family: 'Alegreya', serif;
+  font-weight:900;
+line-height: 2.5em;
+
+
+}
+.rm
+{
+margin: 0;
+text-align: center;
+font-family: 'Alegreya', sans-serif;
+font-size: 2em;
+
+}
+/* second one */
+.image2
+{
+border-radius:50%;
+float:left;
+margin-right:15px;
+padding-top:10px;
+
+}
+.vetrimaaran
+{
+background-color:#ebdc87;
+padding:50px;
+padding-left:20px;
+padding-right:10px;
+border-radius:30px;
+box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2);
+width:50%;
+margin-left: auto;
+margin-right: auto;
+transition-timing-function: ease-out;
+transition: width 2s;
+
+}
+div.vetrimaaran:hover
+{
+  background-color:#e0ece4;
+  width:90%;
+
+}
+div.rajamouli:hover
+{
+  background-color:#e0ece4;
+  width:90%;
+  height:150%;
+}
+a{
+  text-decoration:none;
+  color:inherit;
+}
